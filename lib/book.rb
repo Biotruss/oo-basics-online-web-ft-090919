@@ -1,4 +1,4 @@
 class Book
-  initialize()
+  initialize(name)
 end
 
